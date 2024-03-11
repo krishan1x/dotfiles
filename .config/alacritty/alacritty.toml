@@ -1,0 +1,34 @@
+import = ["/home/krishan/.config/alacritty/themes/tokyo-night.toml"]
+
+[cursor]
+blink_interval = 700
+
+[cursor.style]
+blinking = "Always"
+shape = "Block"
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 10.0
+
+[font.bold]
+family = "JetBrainsMono NF"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono NF"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono NF"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono NF"
+style = "Regular"
+
+[window]
+opacity = 0.9  # From 0.00 to 1.00
+

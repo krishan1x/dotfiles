@@ -1,0 +1,30 @@
+font:
+  normal:
+    family: "JetBrainsMono NF"
+    style: Regular
+  bold:
+    family: "JetBrainsMono NF"
+    style: Bold
+  italic:
+    family: "JetBrainsMono NF"
+    style: Italic
+  bold_italic:
+    family: "JetBrainsMono NF"
+    style: Bold Italic
+
+  size: 10.0
+
+cursor:
+  style:
+    shape: Block
+    blinking: Always
+  blink_interval: 700
+
+window:
+    opacity: 0.90 # From 0.00 to 1.00
+
+env:
+  TERM: xterm-256color
+
+import:
+  - ~/.config/alacritty/themes/tokyo-night.yaml
