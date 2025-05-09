@@ -1,0 +1,8 @@
+font-family = "JetBrainsMono NF"
+font-style = Regular
+font-size = 10
+font-thicken = true
+
+background-opacity = 0.8
+theme = tokyonight
+window-decoration = server
