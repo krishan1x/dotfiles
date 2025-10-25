@@ -3,6 +3,6 @@ font-style = Regular
 font-size = 10
 font-thicken = true
 
-background-opacity = 0.8
-theme = tokyonight
+background-opacity = 0.9
+theme = TokyoNight
 window-decoration = server
